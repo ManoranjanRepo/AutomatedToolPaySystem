@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 
 manoranjan
 mano
 mano
 mano
 manoranjanff
+=======
+manoranjanff
+>>>>>>> Stashed changes
